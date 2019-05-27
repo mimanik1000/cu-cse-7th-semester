@@ -3,9 +3,9 @@ Contains Documents of System Analysis &amp; Design for the City University of Ba
 <br/><br/>
 
 ## [Theory Documentations | CSE-325](https://github.com/Shobuj47/cu-cse-325-326/tree/master/Documents/cse-325)
-#### 1. [Agile Methodology Documentations](https://github.com/Shobuj47/cu-cse-325-326/blob/master/Documents/cse-325/Midterm/Agile%20Methodology.pdf)
-#### 2. [Banking Application Use Cases](https://github.com/Shobuj47/cu-cse-325-326/blob/master/Documents/cse-325/Midterm/Banking-App-Use-Case.dia)
-#### 3. [E-Commerce Class Diagram](https://github.com/Shobuj47/cu-cse-325-326/blob/master/Documents/cse-325/Midterm/E-Commerce_Class_Diagram.dia)
+
+#### 1. [Banking Application Use Cases](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Online%20Banking%20System-Use%20Case.dia)
+#### 2. [E-Commerce Class Diagram](https://github.com/Shobuj47/cu-cse-325-326/blob/master/Documents/cse-325/Midterm/E-Commerce_Class_Diagram.dia)
 <br/><br/>
 
 ## [Lab Practical Projects | CSE-326](https://github.com/Shobuj47/cu-cse-325-326/tree/master/Development)
