@@ -1,4 +1,4 @@
-# CU-CSE-325-326
+# CU-CSE: System Analysis & Design
 Contains Documents of System Analysis &amp; Design for the City University of Bangladesh
 <br/><br/>
 
