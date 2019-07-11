@@ -13,6 +13,11 @@ Contains Documents of System Analysis &amp; Design for the City University of Ba
 # [Final]
 #### 1. [Activity diagram of atm Raw file](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Activity%20diagram%20of%20atm.vsdx)
 #### 1.1 [Activity diagram of atm Image file](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Activity%20diagram%20of%20atm..png)
+#### 2. [Sequence diagram of atm Raw file](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Sequence%20diagram%20of%20atm.vsdx)
+#### 2.1 [Sequence diagram of atm Image file](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Sequence%20diagram%20of%20atm..png)
+#### 3. [Activity & Sequence diagram of atm PDF file](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Sequence%20%26%20Aivity%20Diagram.pdf)
+
+
 
 ## [LAB Practical Report | CSE-326](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Mid%20Final%20Report.pdf)
 #### 1. [Library Management Documents](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Mid%20Final%20Report.pdf)
