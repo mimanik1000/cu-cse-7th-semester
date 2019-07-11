@@ -18,6 +18,14 @@ Contains Documents of System Analysis &amp; Design for the City University of Ba
 #### 3.0 [Activity & Sequence diagram of atm PDF file](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Sequence%20%26%20Aivity%20Diagram.pdf)
 
 
+## [LAB Documentations | CSE-326]
+## [Mid-Term]
+#### 1.0 [Report on Banking Application & e-Commerce Website](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Mid%20Final%20Report.pdf)
+## [Final]
+#### 1.0 [Class diagram with association and aggregation Raw File](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Class%20Diagram%20with%20aggrigation%20and%20association.vsdx) 
+#### 1.1 [Class diagram with association and aggregation Image File](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Class%20diagram%20with%20association%20and%20aggregation.png)
+#### 1.2 [Class diagram with association and aggregation PDF File](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Class%20Diagram%20With%20Aggrigation%20and%20Association.pdf)
 
-## [LAB Practical Report | CSE-326](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Mid%20Final%20Report.pdf)
+
+
 #### 1. [Library Management Documents](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Mid%20Final%20Report.pdf)
