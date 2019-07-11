@@ -11,6 +11,7 @@ Contains Documents of System Analysis &amp; Design for the City University of Ba
 <br/>
 
 # [Final]
+## [Theory Documentations | CSE-325]
 
 ## [LAB Practical Report | CSE-326](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Mid%20Final%20Report.pdf)
 #### 1. [Library Management Documents](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Mid%20Final%20Report.pdf)
