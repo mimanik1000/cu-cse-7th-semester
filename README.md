@@ -2,7 +2,7 @@
 Contains Documents of System Analysis &amp; Design for the City University of Bangladesh
 <br/><br/>
 
-## [Theory Documentations | CSE-325]((https://github.com/mimanik1000/cu-cse-7th-semester))
+## [Theory Documentations | CSE-325]
 ## [Mid-Term]
 #### 1.0 [Banking Application Use Cases .dia File](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Online%20Banking%20System-Use%20Case.dia)
 #### 1.1 [Banking Application Use Cases Image File](https://github.com/mimanik1000/cu-cse-7th-semester/blob/master/Online%20Banking%20System-Use%20Case.png)
